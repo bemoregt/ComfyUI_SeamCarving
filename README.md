@@ -4,6 +4,10 @@ A ComfyUI custom node for **content-aware image resizing** using the [Seam Carvi
 
 Unlike standard resizing, Seam Carving removes or inserts the *least visually important* paths through the image, preserving subjects and structure while eliminating low-energy regions like sky, background, and whitespace.
 
+![이미지 스펙트럼 예시](https://github.com/bemoregt/ComfyUI_SeamCarving/blob/main/ScrShot%201.png)
+
+![이미지 스펙트럼 예시](https://github.com/bemoregt/ComfyUI_SeamCarving/blob/main/ScrShot%202.png)
+
 ---
 
 ## How It Works
